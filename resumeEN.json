@@ -1,0 +1,201 @@
+{
+  "contacts": {
+    "name": "Hang Cui",
+    "email": "oscarcuihang@hotmail.com",
+    "phone": "+001-573-825-7455",
+    "location": "NYC, NY",
+    "profiles": [
+      {
+        "type": "github",
+        "url": "github.com/oscarcuihang"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/in/hang-cui-02241457/"
+      },
+      {
+        "type": "website",
+        "url": "cuihang.net"
+      }
+    ]
+  },
+  "professionalExperiences": [
+    {
+      "employer": "Cerner Corporation",
+      "location": {
+        "city": "Kansas City",
+        "state": "MO",
+        "country": "USA"
+      },
+      "title": "Senior Full Stack Software Engineer, Tech Lead",
+      "url": "https://www.cerner.com/",
+      "dates": {
+        "start": "2016-01",
+        "end": null
+      },
+      "highlights": [
+        {
+          "description": "Contribute software engineering expertise throughout the lifecycle of software development, from requirements definition to successful deployment, including:",
+          "details": [
+            {
+              "description": "Design and develop large scaled object-oriented Cerner software Model Experience System(MEX) from scratch, and customize it for internal and external use cases",
+              "link": "goo.gl/QcSo9t"
+            },
+            {
+              "description": "Create team based Ruby ecosystem by setting rails style guide, design pattern, create and release internal and ruby community gems. Increase unit test cover to 100% with edge cases",
+              "link": "goo.gl/Q5F5Fu"
+            },
+            {
+              "description": "Introduce React and WebPack to separate front end and rails service, create 20+ reusable static and dynamic react components",
+              "link": null
+            },
+            {
+              "description": "Introduce and Implement automated testing by using EggPlant, efficiency imports 50+",
+              "link": null
+            },
+            {
+              "description": "Design and develop rails engine to centralize, store and share data and views for apps within MEX, create APIs for each app and engine to interact with each other, and for other teams’ consumption",
+              "link": null
+            },
+            {
+              "description": "Lead in developing Key Performance Indicators to centralize KPI data storage and increase working efficiency by reduce strategists’ working hours, and eliminate inconsistent data",
+              "link": null
+            },
+            {
+              "description": "Build Apache Solr search for individual apps within MES. Users are able to search and filter most data",
+              "link": "Deploy applications to production biweekly by using Chef and Capistrano"
+            },
+            {
+              "description": null,
+              "link": null
+            }
+          ]
+        },
+        {
+          "description": "Mentor full-time and intern software engineers",
+          "details": null
+        }
+      ]
+    },
+    {
+      "employer": "University of Missouri",
+      "location": {
+        "city": "Columbia",
+        "state": "MO",
+        "country": "USA"
+      },
+      "title": "Project Manager, Research Assistant",
+      "url": null,
+      "dates": {
+        "start": "2014-10",
+        "end": "2015-12"
+      },
+      "highlights": [
+        {
+          "description": "Managed 7-person team, and contributed software engineering expertise, agile development, and project management for a Traditional Chinese Medicine(TCM) health diagnosis and diet suggestion iOS app, iTongue",
+          "details": [
+            {
+              "description": "Designed data models and database structures for users information and diagnosis results and suggestions",
+              "link": null
+            },
+            {
+              "description": "Improved data, user info security, encrypted most sensitive data, used third party OAuth and payment method",
+              "link": null
+            },
+            {
+              "description": "Published to app store, more than 100+ active users",
+              "link": "goo.gl/nEBgyK"
+            }
+          ]
+        },
+        {
+          "description": "Heavily participated in project managing and business planning",
+          "details": null
+        }
+      ]
+    },
+    {
+      "employer": "Vagabond Vending, LLC",
+      "location": {
+        "city": "Washington",
+        "state": "D.C.",
+        "country": "USA"
+      },
+      "title": "Software Developer Intern",
+      "url": "https://vgbnd.co/",
+      "dates": {
+        "start": "2014-06",
+        "end": "2014-08"
+      },
+      "highlights": [
+        {
+          "description": "Redesigned company software infrastructure, built from scratch and replaced the old one",
+          "details": [
+            {
+              "description": "Demonstrated to company CEO and received high quality feedbacks",
+              "link": null
+            },
+            {
+              "description": "Saved about 70% time and human resources, and changed company’s operational workflow",
+              "link": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "institution": "University Of Missouri",
+      "location": {
+        "city": "Columbia",
+        "state": "MO",
+        "country": "USA"
+      },
+      "major": ["Computer Science", "Information Technology"],
+      "minor": "Math",
+      "degree": "Bachelor of Science",
+      "graduationDate": "2015-12"
+    }
+  ],
+
+  "otherProjects": [
+    {
+      "name": "Æffect",
+      "title": "Lead iOS developer, Lead videographer",
+      "link": "goo.gl/YNjFNW",
+      "dates": {
+        "start": "2015-01",
+        "end": "2015-05"
+      },
+      "highlights": [
+        {
+          "description": "Redesigned company software infrastructure, built from scratch and replaced the old one",
+          "details": [
+            "Demonstrated to company CEO and received high quality feedbacks",
+            "Saved about 70% time and human resources, and changed company’s operational workflow"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Road trip planner",
+      "title": "Team lead",
+      "link": "52.10.86.94",
+      "dates": {
+        "start": "2014-09",
+        "end": null
+      },
+      "highlights": [
+        {
+          "description": "Designed and developed a web app for road trippers to build customized travel plans, including a route generation system by using googleMap API, a location search system and a travel experience sharing system",
+          "details": null
+        },
+        {
+          "description": "Analyzed different clouds’ cost and usability, deployed on cloud using AWS EC2",
+          "details": null
+        }
+      ]
+    }
+  ]
+}
