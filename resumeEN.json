@@ -6,15 +6,15 @@
     "location": "NYC, NY",
     "profiles": [
       {
-        "network": "github",
+        "type": "github",
         "url": "github.com/oscarcuihang"
       },
       {
-        "network": "linkedin",
+        "type": "linkedin",
         "url": "https://www.linkedin.com/in/hang-cui-02241457/"
       },
       {
-        "network": "website",
+        "type": "website",
         "url": "cuihang.net"
       }
     ]
@@ -28,7 +28,7 @@
         "country": "USA"
       },
       "title": "Senior Full Stack Software Engineer, Tech Lead",
-      "website": "https://www.cerner.com/",
+      "url": "https://www.cerner.com/",
       "dates": {
         "start": "2016-01",
         "end": null
@@ -85,7 +85,7 @@
         "country": "USA"
       },
       "title": "Project Manager, Research Assistant",
-      "website": null,
+      "url": null,
       "dates": {
         "start": "2014-10",
         "end": "2015-12"
@@ -122,7 +122,7 @@
         "country": "USA"
       },
       "title": "Software Developer Intern",
-      "website": "https://vgbnd.co/",
+      "url": "https://vgbnd.co/",
       "dates": {
         "start": "2014-06",
         "end": "2014-08"
