@@ -1,0 +1,206 @@
+{
+  "contacts": {
+    "name": "崔航",
+    "email": "oscarcuihang@hotmail.com",
+    "phone": "+001-573-825-7455",
+    "location": "纽约",
+    "profiles": [
+      {
+        "type": "github",
+        "url": "github.com/oscarcuihang"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/in/hang-cui-02241457/"
+      },
+      {
+        "type": "web",
+        "url": "cuihang.net"
+      }
+    ]
+  },
+  "professionalExperiences": [
+    {
+      "employer": "美国塞纳公司 (Cerner Corporation)",
+      "location": {
+        "city": "堪萨斯城",
+        "state": "密苏⾥",
+        "country": "美国"
+      },
+      "title": "⾼级全栈软件⼯程师，技术主管",
+      "url": "https://www.cerner.com/",
+      "dates": {
+        "start": "2016-01",
+        "end": null
+      },
+      "highlights": [
+        {
+          "description": "从定义需求到成功部署，在软件开发的整个周期中提供软件⼯程专业知识，包括：",
+          "details": [
+            {
+              "description": "从零开始设计和开发⼤规模面向对象 (OOP) 塞纳软件，模型体验体统 (Model Experience System, MEX)，并对其定制内部和外部使⽤案例",
+              "link": "goo.gl/QcSo9t"
+            },
+            {
+              "description": "通过设定rails开发⻛格和设计模式，编写及发布内外部ruby依赖包，提升单元测试覆盖率及极端情况⾄100%；创建基于团队的Ruby⽣态系统",
+              "link": "goo.gl/Q5F5Fu"
+            },
+            {
+              "description": "引⼊入 React 及 Webpack 来分离前段和rails后端，编写可重复使用的动态及静态react组件20多个",
+              "link": null
+            },
+            {
+              "description": "引⼊入并实现自动化回归测试，团队效率提升 50% 以上",
+              "link": null
+            },
+            {
+              "description": "设计并研发 Rails 引擎，以便中心化储存并分享 MEX 子软件中的数据和视图；编写子软件和引擎的 API 接口，以便软件之间的数据交流，和公司其他团队使用数据",
+              "link": null
+            },
+            {
+              "description": "主管开发子软件“测量图书馆”来集中 KPI 数据的储存，通过数据可视化及消除不统一数据，大幅提升公司策略师工作效率",
+              "link": null
+            },
+            {
+              "description": "在 MEX 及其子软件中构建 Apache Solr 搜索，用户可以搜索或过滤大部分数据",
+              "link": null
+            },
+            {
+              "description": "使用 Chef 及 Capistrano 对 MEX 系统进行两周一次生产部署",
+              "link": null
+            }
+          ]
+        },
+        {
+          "description": "指导全职员工及实习生",
+          "details": [
+            {
+              "description": "两周一次1对1跟进组员进度及职业发展需求，并及时指导组员快速接纳新科技及客户需求",
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employer": "美国密苏里大学",  
+      "location": {
+        "city": "哥伦比亚",
+        "state": "密苏里",
+        "country": "美国"
+      },
+      "title": "项目经理，科研助理",
+      "url": null,
+      "dates": {
+        "start": "2014-10",
+        "end": "2015-12"
+      },
+      "highlights": [
+        {
+          "description": "带领 7 人团队为传统中医健康诊断及饮食 iOS 软件 (iTongue) 提供软件工程专业知识，敏捷开发及项目管理",
+          "details": [
+            {
+              "description": "为用户信息和诊断结果和建议设计数据模型和数据库结构",
+              "link": null
+            },
+            {
+              "description": "通过对敏感数据进行加密处理, 使用第三方OAuth及支付软件，提升数据及用户个人信息安全",
+              "link": null
+            },
+            {
+              "description": "苹果商城超过 100+ 活跃用户",
+              "link": "goo.gl/nEBgyK"
+            }
+          ]
+        },
+        {
+          "description": "积极参与项目管理和业务规划",
+          "details": null
+        }
+      ]
+    },
+    {
+      "employer": "Vagabond Vending, LLC",
+      "location": {
+        "city": "华盛顿特区",
+        "state": null,
+        "country": "美国"
+      },
+      "title": "软件工程师",
+      "url": "https://vgbnd.co/",
+      "dates": {
+        "start": "2014-06",
+        "end": "2014-08"
+      },
+      "highlights": [
+        {
+          "description": "重新设计和构建并替换原有的公司软件基础架构",
+          "details": [
+            {
+              "description": "向公司CEO展示并收到高质量的反馈",
+              "link": null
+            },
+            {
+              "description": "为公司节省了大约70％的时间和人力资源，并改变了公司的运营流程",
+              "link": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "institution": "美国密苏里大学i",
+      "location": {
+        "city": "哥伦比亚",
+        "state": "密苏里",
+        "country": "美国"
+      },
+      "major": ["计算机科学", "信息技术"],
+      "minor": "数学",
+      "degree": "科学学士",
+      "graduationDate": "2015-12"
+    }
+  ],
+
+  "otherProjects": [
+    {
+      "name": "Æffect",
+      "title": "iOS开发组长, 摄影组长",
+      "link": "goo.gl/YNjFNW",
+      "dates": {
+        "start": "2015-01",
+        "end": "2015-05"
+      },
+      "highlights": [
+        {
+          "description": "负责网络管理，核心逻辑和数据建模",
+          "details": [
+            "使用纽约时报API收集相关新闻，并使用语言处理来确定新闻类别",
+            "设计数据模型及JSON数据解析器"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Road trip planner",
+      "title": "项目组长",
+      "link": "52.10.86.94",
+      "dates": {
+        "start": "2014-09",
+        "end": null
+      },
+      "highlights": [
+        {
+          "description": "设计并开发了一款用于制作个性化旅行计划的网络应用程序，包括使用 Google Maps API 的路线生成系统, 地理位置搜索系统和旅行体验分享系统",
+          "details": null
+        },
+        {
+          "description": "分析不同云端上的成本和可用性，最终选择部署在亚马逊 AWS EC2",
+          "details": null
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@
         "url": "https://www.linkedin.com/in/hang-cui-02241457/"
       },
       {
-        "type": "website",
+        "type": "web",
         "url": "cuihang.net"
       }
     ]
@@ -62,11 +62,11 @@
               "link": null
             },
             {
-              "description": "Build Apache Solr search for individual apps within MES. Users are able to search and filter most data",
-              "link": "Deploy applications to production biweekly by using Chef and Capistrano"
+              "description": "Build Apache Solr search for individual apps within MEX. Users are able to search and filter most data",
+              "link": null
             },
             {
-              "description": null,
+              "description": "Deploy applications to production biweekly by using Chef and Capistrano",
               "link": null
             }
           ]
@@ -170,10 +170,10 @@
       },
       "highlights": [
         {
-          "description": "Redesigned company software infrastructure, built from scratch and replaced the old one",
+          "description": "Responsible for network management, core logic and data modeling",
           "details": [
-            "Demonstrated to company CEO and received high quality feedbacks",
-            "Saved about 70% time and human resources, and changed company’s operational workflow"
+            "Used New York Times API to gather relative news, and Language Processing to determine news categories",
+            "Designed data models, and parser for JSON objects"
           ]
         }
       ]
