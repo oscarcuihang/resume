@@ -172,8 +172,14 @@
         {
           "description": "Responsible for network management, core logic and data modeling",
           "details": [
-            "Used New York Times API to gather relative news, and Language Processing to determine news categories",
-            "Designed data models, and parser for JSON objects"
+            {
+              "description": "Used New York Times API to gather relative news, and Language Processing to determine news categories",
+              "link": null
+            },
+            {
+              "description": "Designed data models, and parser for JSON objects",
+              "link": null
+            }
           ]
         }
       ]
